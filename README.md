@@ -1,1 +1,1 @@
-# KNN_model
+LMS activity - Handwritten Digit Recognistaion using KNN
